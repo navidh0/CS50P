@@ -14,7 +14,7 @@ and matplotlib to visualize
 
 Note : this class can be modified to use alphavantage as endpoint with api_key
 Symbol of the class can be changed to analyze other stocks but by default is set to Gold
-# api_key for Alphavantage = 0Q85CLH3GYYDIRGK
+
 
 '''
 class Trend:
