@@ -1,0 +1,6 @@
+install these libraries using this commands
+
+pip install yfianace
+pip install pandas
+pip install matplotlib
+pip install ta.trend
